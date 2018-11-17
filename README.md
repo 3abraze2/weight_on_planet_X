@@ -1,6 +1,6 @@
 # weight_on_planet
 
-A new Flutter project.
+This application calculate your weight on pluto, mars, venus.
 
 ## Getting Started
 
